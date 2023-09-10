@@ -3,3 +3,29 @@ body {
   height: 100%;
   margin: 0;
 }
+header { 
+  text: center;
+}
+.center {
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+.navlink {
+  background-color: pink;
+  text-align: center;
+}
+figcaption {
+  text-size: 7px;
+  text-align: center;
+}
+#featured-property {
+  text-align: center;
+  width: 800px;
+}
+div { 
+  float: left;
+  background-color: purple;
+}
